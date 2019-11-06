@@ -6,3 +6,23 @@
   ● git add
 	將資料從自己的資料夾（Modified)移動到暫存區（Staged)。
 
+  ● git commit
+	將資料從暫存區（Modified)移動到版本庫（Commited)裡。
+
+  ● git log
+	查看自己資料各個版本。
+
+
+  ● git push [ Repo_name ] [ Branch_name ]
+
+
+  ● git remote -v
+
+
+  ● git branch
+
+
+  ● fork
+
+
+3.Please describe how to establish a github repo and how to upload the local projects to github. Try to explain it as detail as possible.
