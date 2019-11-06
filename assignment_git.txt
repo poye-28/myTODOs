@@ -1,0 +1,8 @@
+2. Here are a few git and GitHub commands we usually use in software development, please explain the meanings and use cases of them.
+
+  ● git status
+	查看目前資料庫的情形：資料的狀態是在Modified、Staged還是Commited。
+ 
+  ● git add
+	將資料從自己的資料夾（Modified)移動到暫存區（Staged)。
+
